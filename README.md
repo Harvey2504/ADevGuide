@@ -1,10 +1,5 @@
-# ADevGuide
-https://www.adevguide.com
+#Youtube Link by KodeKloud
+https://www.youtube.com/watch?v=fqMOX6JJhGo
 
-Hello Readers,
-If you see any error in the source code or want to contribute by adding examples, Please feel free to send us pull requests. You can also use below page to send us feedback about the content.
-
-https://www.adevguide.com/adevguide-community/
-
-Heppy Learning,<br>
-PraBhu
+#This Project Explanation Link
+https://www.adevguide.com/dockerize-java-application-maven-with-dockerfile/
